@@ -1,0 +1,69 @@
+{
+  "store-information": "#store-information",
+  "support": "#support",
+  "out-company": "Về Merchize",
+  "shipping-policy": "Chính sách vận chuyển",
+  "return-and-refund": "Chính sách trả hàng và hoàn tiền",
+  "payment-method": "Phương thức thanh toán",
+  "help-center": "#help-center",
+  "dmca": "#dmca",
+  "privacy-policy": "Chính sách bảo mật",
+  "term-&-conditions": "Điều khoản Merchize",
+  "about-us": "#about-us",
+  "contact-us": "Liên hệ",
+  "callUs": "Điện thoại: {{phone}}",
+  "emailUs": "Email: {{email}}",
+  "waylf": "#what-are-you-looking-for?",
+  "copyright": "#© {{year}} {{storeName}}. All rights reserved.",
+  "btnNext": "Sau",
+  "btnPrev": "Trước",
+  "sizeGuide": "Bảng size",
+  "quantity": "Số lượng",
+  "btnAddToCart": "Thêm vào giỏ",
+  "btnBuyNow": "Mua ngay",
+
+  "home": {
+    "editors-picks": "San pham da xem",
+    "search-products-and-artworks": "Tim kiem san pham va artwork",
+    "search": "Tim kiem",
+    "featured-collections": "Bo suu tap",
+    "view-more": "Xem them"
+  },
+
+  "shop": {
+    "pageTitle": "###Products"
+  },
+
+  "cart": {
+    "titlePage": "Giỏ hàng",
+    "btnAddProduct": "#Add more items",
+    "btnCheckout": "Đặt hàng",
+    "subtotal": "#Subtotal",
+    "discount": "#Discount",
+    "empty": "#Your cart is empty!",
+    "headingRelatedProduct": "Có thể bạn cũng thích"
+  },
+
+  "404": {
+    "titlePage": "#Oh! Something went wrong?",
+    "headingListProduct": "#Just for you"
+  },
+
+  "product": {
+    "countdown": "#left to buy",
+    "headingRelatedProduct": "Sản phẩm liên quan"
+  },
+
+  "trackOrder": {
+    "titlePage": "#Track Your Order",
+    "inputPlaceholder": "#Enter your tracking number.",
+    "btnSubmit": "#Track",
+    "headingFAQ": "#Tracking FAQ",
+    "question": "#Can I add or remove products from my order?",
+    "answer": "#Sorry! To ensure your order arrives on time, we generally begin processing an order as soon as it is placed. As a result we are unable to make any changes to your order after it is placed."
+  },
+
+  "checkout": {
+    "titlePage": "#Checkout"
+  }
+}
