@@ -15,7 +15,7 @@
   "term-&-conditions": "Điều khoản Merchize",
   "about-us": "Về chúng tôi",
   "contact-us": "Liên hệ",
-  "callUs": "Số điện thoại: {{phone}}",
+  "callUs": "Sỗ điện thoại: {{phone}}",
   "emailUs": "Email: {{email}}",
   "waylf": "Tìm sản phẩm hay thương hiệu mong muốn",
   "copyright": "#© {{year}} {{storeName}}. All rights reserved.",
@@ -27,10 +27,10 @@
   "btnBuyNow": "Mua ngay",
   "home": {
     "editors-picks": "Các sản phẩm được yêu thích",
-    "search-products-and-artworks": "Tim kiem san pham va artwork",
-    "search": "Tim kiem",
-    "featured-collections": "Bo suu tap",
-    "view-more": "Xem them"
+    "search-products-and-artworks": "Tìm sản phẩm",
+    "search": "Tìm kiếm",
+    "featured-collections": "Bộ sưu tập",
+    "view-more": "Xem tất cả"
   },
   "shop": {
     "pageTitle": "Danh sách sản phẩm"
