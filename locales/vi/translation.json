@@ -18,10 +18,9 @@
   "callUs": "Sỗ điện thoại: {{phone}}",
   "emailUs": "Email: {{email}}",
   "waylf": "Tìm sản phẩm",
-  "copyright": "#© {{year}} {{storeName}}. All rights reserved.",
+  "copyright": "© {{year}} {{storeName}}. All rights reserved.",
   "btnNext": "Sau",
   "btnPrev": "Trước",
-  "sizeGuide": "Bảng size",
   "quantity": "Số lượng",
   "btnAddToCart": "Thêm vào giỏ",
   "btnBuyNow": "Mua ngay",
@@ -42,12 +41,27 @@
     "subtotal": "Tổng tiền hàng",
     "discount": "Mã giảm giá",
     "empty": "Không có sản phẩm nào trong giỏ hàng!",
-    "headingRelatedProduct": "Có thể bạn cũng thích"
+    "headingRelatedProduct": "Có thể bạn cũng thích",
+    "orderItems": "({{totalItems}} sản phẩm)"
   },
   "product": {
     "countdown": "Kết thúc trong",
     "headingRelatedProduct": "Sản phẩm liên quan",
-    "labelSelectAttribute": "Chọn một {{attributeName, lowercase}}"
+    "labelSelectAttribute": "Chọn một {{attributeName}}",
+    "description": "Mô tả sản phẩm",
+    "labelProductDetails": "Chi tiết sản phẩm",
+    "labelSizeGuide": "Bảng size",
+    "size": {
+      "inches": "Inch",
+      "centimeters": "Cm",
+      "chest": "Ngực",
+      "length": "Chiều dài",
+      "width": "Chiều rộng",
+      "sleeve": "Tay",
+      "bust": "Ngực",
+      "body": "Thân",
+      "size": "Size"
+    }
   },
   "trackOrder": {
     "titlePage": "Theo dõi đơn hàng",
