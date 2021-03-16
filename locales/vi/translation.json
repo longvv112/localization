@@ -1,4 +1,8 @@
 {
+  "404": {
+    "titlePage": "#Oh! Something went wrong?",
+    "headingListProduct": "#Just for you"
+  },
   "store-information": "#store-information.......",
   "support": "#support",
   "out-company": "Về Merchize",
@@ -21,19 +25,16 @@
   "quantity": "Số lượng",
   "btnAddToCart": "Thêm vào giỏ",
   "btnBuyNow": "Mua ngay",
-
   "home": {
-    "editors-picks": "San pham da xem",
+    "editors-picks": "Các sản phẩm được yêu thích",
     "search-products-and-artworks": "Tim kiem san pham va artwork",
     "search": "Tim kiem",
     "featured-collections": "Bo suu tap",
     "view-more": "Xem them"
   },
-
   "shop": {
     "pageTitle": "###Products"
   },
-
   "cart": {
     "titlePage": "Giỏ hàng",
     "btnAddProduct": "#Add more items",
@@ -43,17 +44,10 @@
     "empty": "#Your cart is empty!",
     "headingRelatedProduct": "Có thể bạn cũng thích"
   },
-
-  "404": {
-    "titlePage": "#Oh! Something went wrong?",
-    "headingListProduct": "#Just for you"
-  },
-
   "product": {
     "countdown": "#left to buy",
     "headingRelatedProduct": "Sản phẩm liên quan"
   },
-
   "trackOrder": {
     "titlePage": "#Track Your Order",
     "inputPlaceholder": "#Enter your tracking number.",
@@ -62,7 +56,6 @@
     "question": "#Can I add or remove products from my order?",
     "answer": "#Sorry! To ensure your order arrives on time, we generally begin processing an order as soon as it is placed. As a result we are unable to make any changes to your order after it is placed."
   },
-
   "checkout": {
     "titlePage": "#Checkout"
   }
