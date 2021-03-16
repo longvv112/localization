@@ -1,23 +1,23 @@
 {
   "404": {
-    "titlePage": "#Oh! Something went wrong?",
-    "headingListProduct": "#Just for you"
+    "titlePage": "Xin lỗi, trang bạn đang tìm kiếm không tồn tại!",
+    "headingListProduct": "Dành riêng cho bạn"
   },
   "store-information": "#store-information.......",
-  "support": "#support",
+  "support": "Hỗ trợ",
   "out-company": "Về Merchize",
   "shipping-policy": "Chính sách vận chuyển",
   "return-and-refund": "Chính sách trả hàng và hoàn tiền",
   "payment-method": "Phương thức thanh toán",
-  "help-center": "#help-center",
-  "dmca": "#dmca",
+  "help-center": "Trung tâm trợ giúp",
+  "dmca": "DMCA",
   "privacy-policy": "Chính sách bảo mật",
   "term-&-conditions": "Điều khoản Merchize",
-  "about-us": "#about-us",
+  "about-us": "Về chúng tôi",
   "contact-us": "Liên hệ",
-  "callUs": "Điện thoại: {{phone}}",
+  "callUs": "Sỗ điện thoại: {{phone}}",
   "emailUs": "Email: {{email}}",
-  "waylf": "#what-are-you-looking-for?",
+  "waylf": "Tìm sản phẩm hay thương hiệu mong muốn",
   "copyright": "#© {{year}} {{storeName}}. All rights reserved.",
   "btnNext": "Sau",
   "btnPrev": "Trước",
@@ -33,15 +33,15 @@
     "view-more": "Xem them"
   },
   "shop": {
-    "pageTitle": "###Products"
+    "pageTitle": "Danh sách sản phẩm"
   },
   "cart": {
     "titlePage": "Giỏ hàng",
-    "btnAddProduct": "#Add more items",
+    "btnAddProduct": "Thêm",
     "btnCheckout": "Đặt hàng",
-    "subtotal": "#Subtotal",
-    "discount": "#Discount",
-    "empty": "#Your cart is empty!",
+    "subtotal": "Tổng tiền hàng",
+    "discount": "Mã giảm giá",
+    "empty": "Không có sản phẩm nào trong giỏ hàng!",
     "headingRelatedProduct": "Có thể bạn cũng thích"
   },
   "product": {
@@ -49,14 +49,14 @@
     "headingRelatedProduct": "Sản phẩm liên quan"
   },
   "trackOrder": {
-    "titlePage": "#Track Your Order",
-    "inputPlaceholder": "#Enter your tracking number.",
-    "btnSubmit": "#Track",
-    "headingFAQ": "#Tracking FAQ",
-    "question": "#Can I add or remove products from my order?",
-    "answer": "#Sorry! To ensure your order arrives on time, we generally begin processing an order as soon as it is placed. As a result we are unable to make any changes to your order after it is placed."
+    "titlePage": "Theo dõi đơn hàng",
+    "inputPlaceholder": "Hãy điền mã vận đơn.",
+    "btnSubmit": "Tra cứu",
+    "headingFAQ": "Hướng dẫn",
+    "question": "Tôi có thể huỷ hay thay đổi đơn hàng đang giao không?",
+    "answer": "Rất tiếc hiện tại chúng tôi chưa hỗ trợ huỷ hay thay đổi đơn hàng khi đã giao hàng cho đơn vị vận chuyển."
   },
   "checkout": {
-    "titlePage": "#Checkout"
+    "titlePage": "Thanh toán"
   }
 }
