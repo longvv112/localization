@@ -46,7 +46,8 @@
   },
   "product": {
     "countdown": "Kết thúc trong",
-    "headingRelatedProduct": "Sản phẩm liên quan"
+    "headingRelatedProduct": "Sản phẩm liên quan",
+    "labelSelectAttribute": "Chọn một {{attributeName, lowercase}}"
   },
   "trackOrder": {
     "titlePage": "Theo dõi đơn hàng",
